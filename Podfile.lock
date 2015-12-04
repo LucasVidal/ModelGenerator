@@ -1,0 +1,10 @@
+PODS:
+  - Argo (2.2.0)
+
+DEPENDENCIES:
+  - Argo
+
+SPEC CHECKSUMS:
+  Argo: 4f52a32b4cd913c204e5a45f420b3fccad3e3f24
+
+COCOAPODS: 0.39.0
